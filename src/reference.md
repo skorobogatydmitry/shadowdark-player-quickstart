@@ -25,3 +25,44 @@
 - Неожиданность - Surprise
 - Бой - combat
 - Срыв заклинания - wizard mishap
+
+# Прогресс
+
+# Summary
+
+- [x] [Шэдоударк](shadowdark.md)
+  - [ ] [Базовые правила](the_basics.md)
+- [ ] [Персонажи](characters/main.md)
+  - [ ] [Предыстория](characters/background.md)
+  - [ ] [Характеристики персонажа](characters/stats.md)
+  - [ ] [Происхождение](characters/ancestry.md)
+  - [ ] [Классы](characters/classes/main.md)
+    - [ ] [Воин](characters/classes/fighter_class.md)
+    - [ ] [Жрец](characters/classes/priest_class.md)
+    - [ ] [Вор](characters/classes/thief_class.md)
+    - [ ] [Маг](characters/classes/wizard_class.md)
+  - [ ] [Титул](characters/titles.md)
+  - [ ] [Мировоззрение](characters/alignment.md)
+  - [ ] [Языки](characters/languages.md)
+  - [ ] [Боги](characters/deities.md)
+  - [ ] [Снаряжение](characters/gear.md)
+  - [ ] [Имена персонажей](characters/character_names.md)
+  - [ ] [Повышение уровня](characters/level_advancement.md)
+- [ ] [Игровой процесс](gameplay/main.md)
+  - [ ] [Броски кубика](gameplay/rolling_the_dice.md)
+  - [ ] [Жетоны удачи](gameplay/luck_tokens.md)
+  - [ ] [Характеристики](gameplay/stats.md)
+  - [ ] [Прохождние проверок](gameplay/making_checks.md)
+  - [ ] [Время](gameplay/time.md)
+  - [ ] [Порядок хода](gameplay/turn_order.md)
+  - [ ] [Исследование](gameplay/crawling.md)
+  - [ ] [Отдых](gameplay/resting.md)
+  - [ ] [Скрытность и неожиданность](gameplay/stealth_and_surprise.md)
+  - [ ] [Бой](gameplay/combat.md)
+- [ ] [Использование заклинаний](casting_spells/main.md)
+  - [ ] [Срыв заклинания](casting_spells/wizard_mishaps.md)
+  - [ ] [Свитки и палочки](casting_spells/scrolls_and_wands.md)
+  - [ ] [Атрибуты заклинаний](casting_spells/spell_attributes.md)
+  - [ ] [Классовые заклинания](casting_spells/spell_lists.md)
+  - [ ] [Заклинания](casting_spells/spells.md)
+
