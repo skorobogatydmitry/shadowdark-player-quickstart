@@ -1,7 +1,7 @@
 # Summary
 
-- [Шэдоударк](shadowdark/main.md)
-  - [Базовые правила](shadowdark/the_basics.md)
+- [Шэдоударк](shadowdark.md)
+  - [Базовые правила](the_basics.md)
 - [Персонажи](characters/main.md)
   - [Предыстория](characters/background.md)
   - [Характеристики персонажа](characters/stats.md)
