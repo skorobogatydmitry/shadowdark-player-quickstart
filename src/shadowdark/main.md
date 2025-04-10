@@ -1,2 +1,1 @@
-# Шэдоударк
-![title](../res/title.webp)
+![title](../_resources/title.webp)
